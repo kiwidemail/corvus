@@ -5,7 +5,7 @@ Corvus
 
 Corvus is a fast and lightweight redis cluster proxy for redis 3.0 with cluster mode enabled.
 
-Why
+Whyy
 ---
 
 Most redis client implementations don't support redis cluster. We have a lot of services relying
